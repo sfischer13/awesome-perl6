@@ -9,6 +9,8 @@ Among many improvements, the string-processing capabilities of Perl 6 were broug
 
 You might also like [awesome-perl](https://github.com/hachiojipm/awesome-perl).
 
+:warning: *Perl 6* will be renamed to *Raku* (see [here](https://github.com/perl6/problem-solving/pull/89#pullrequestreview-300789072)). Hence, this repository has been replaced by [awesome-raku](https://github.com/sfischer13/awesome-raku). :warning:
+
 *Please read the [contribution guidelines](contributing.md) before contributing.*
 
 ## Contents
