@@ -2,7 +2,7 @@
 
 > Useful resources for the [Perl 6](https://perl6.org/) programming language
 
-:warning: *Perl 6* will be renamed to *Raku* (see [here](https://github.com/perl6/problem-solving/pull/89#pullrequestreview-300789072)). Hence, this repository has been replaced by [awesome-raku](https://github.com/sfischer13/awesome-raku). :warning:
+:warning: *Perl 6* will be **renamed** to *Raku* (see [here](https://github.com/perl6/problem-solving/pull/89#pullrequestreview-300789072)). Hence, this repository has been **replaced** by [awesome-raku](https://github.com/sfischer13/awesome-raku). :warning:
 
 [Perl 6](https://en.wikipedia.org/wiki/Perl_6), also called *Raku*, is a multi-paradigm language with exceptional string-processing support.
 It is *not* a new version of [Perl 5](https://en.wikipedia.org/wiki/Perl).
